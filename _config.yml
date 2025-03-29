@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Skylar Mai"
+title                    : "Skylar Mai, DDS"
 title_separator          : "-"
 name                     : &name "Skylar Mai"
 description              : &description "Welcome to my personal website"
